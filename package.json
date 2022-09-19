@@ -1,0 +1,11 @@
+{
+  "name": "firat",
+  "version": "1.0.0",
+  "description": "bringing research world closer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aminah",
+  "license": "ISC"
+}
